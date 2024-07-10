@@ -2,55 +2,55 @@
    {
       "id":0,
       "title":"เครื่องกรองน้ำ RO",
-      "desc":"เครื่องกรองน้ำดื่มในบ้าน",
+      "description":"เครื่องกรองน้ำดื่มในบ้าน",
       "img":"water_RO.png"
    },
    {
       "id":1,
       "title":"Smart car kit",
-      "desc":"กรองน้ำแบบ 3ท่อ 5 L/min",
+      "description":"กรองน้ำแบบ 3ท่อ 5 L/min",
       "img":"smartcars.jpg"
    },
    {
       "id":2,
       "title":"เครื่องกรองน้ำ Filter",
-      "desc":"กรองน้ำแบบ 3ท่อ 5 L/min",
+      "description":"กรองน้ำแบบ 3ท่อ 5 L/min",
       "img":"RCC7.jpg"
    },
    {
       "id":3,
       "title":"เครื่องกรอง Micro filter",
-      "desc":"กรองน้ำชนิด Microfilter",
+      "description":"กรองน้ำชนิด Microfilter",
       "img":"BRITA_flow.png"
    },
    {
       "id":4,
       "title":"ประตูรีโมท Sliding",
-      "desc":"ประตุรีโมท G01",
+      "description":"ประตุรีโมท G01",
       "img":"double_wheel.jpg"
    },
    {
       "id":5,
       "title":"Title รายการ 5",
-      "desc":"desc รายการ 5 ",
+      "description":"desc รายการ 5 ",
       "img":"pcb_closeup.jpg"
    },
    {
       "id":6,
       "title":"Title รายการ 6",
-      "desc":"desc รายการ 6 ",
+      "description":"desc รายการ 6 ",
       "img":"pic6.jpg"
    },
    {
       "id":7,
       "title":"Title รายการ 7",
-      "desc":"desc รายการ  7 ",
+      "description":"desc รายการ  7 ",
       "img":"pic7.jpg"
    },
    {
       "id":8,
       "title":"Title รายการ 8",
-      "desc":"desc รายการ  8 ",
+      "description":"desc รายการ  8 ",
       "img":"pic8.jpg"
    }
 ]
