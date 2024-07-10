@@ -37,20 +37,20 @@
    },
    {
       "id":6,
-      "title":"Title รายการ 6",
-      "description":"desc รายการ 6 ",
+      "title":"เครื่องกรองน้ำแบบ 2 ท่อ",
+      "description":"กรองน้ำดื่มแบบกรอง 2 ท่อ",
       "img":"waterfilter2states.jpg"
    },
    {
       "id":7,
-      "title":"Title รายการ 7",
-      "description":"desc รายการ  7 ",
+      "title":"มอเตอร์เปิดประตู Auto 370W",
+      "description":"สำหรับ Sliding Gate กำลัง 370W",
       "img":"sliding_gate_370W.webp"
    },
    {
       "id":8,
-      "title":"Title รายการ 8",
-      "description":"desc รายการ  8 ",
+      "title":"Board probe PCB",
+      "description":"Probe สำหรับตรวจ Board",
       "img":"boardprobe.jpg"
    }
 ]
