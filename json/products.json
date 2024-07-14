@@ -25,8 +25,8 @@
    },
    {
       "id":4,
-      "title":"ประตูรีโมท Sliding",
-      "description":"ประตุรีโมท G01",
+      "title":"ล้อคู่ 75 mm ประตูรีโมท Sliding",
+      "description":"ล้อคุ่ขนาด 75 มม. สำหรับประตุรีโมท Slidng Gate 250 kg",
       "img":"double_wheel.jpg"
    },
    {
@@ -52,5 +52,17 @@
       "title":"Board probe PCB",
       "description":"Probe สำหรับตรวจ Board",
       "img":"boardprobe.jpg"
+   },
+      {
+      "id":9,
+      "title":"เครื่องกรองน้ำ RO",
+      "description":"เครื่องกรองน้ำดื่มในบ้าน",
+      "img":"water_RO.png"
+   },
+   {
+      "id":10,
+      "title":"Smart car kit",
+      "description":"กรองน้ำแบบ 3ท่อ 5 L/min",
+      "img":"smartcars.jpg"
    }
 ]
