@@ -1,25 +1,25 @@
 [
    {
       "id":0,
-      "title":"เครื่องกรองน้ำ RO",
+      "title":"เครื่องกรองน้ำแบบ RO ดื่มได้",
       "description":"เครื่องกรองน้ำดื่มแบบ RO-02 ปริมาณ 15 L/min สำหรับบ้านพักอาศัย",
       "img":"water_RO.png"
    },
    {
       "id":1,
-      "title":"Robot Smart car kit",
+      "title":"Robot Smart car kit STEM",
       "description":"ชุดฝึก Robot Smart car kit for STEM Education",
       "img":"smartcars.jpg"
    },
    {
       "id":2,
-      "title":"เครื่องกรองน้ำ Filter",
+      "title":"เครื่องกรองน้ำ Filter บ้านพัก คอนโด",
       "description":"กรองน้ำแบบ 3ท่อ 5 L/min สำหรับบ้านพัก คอนโด",
       "img":"RCC7.jpg"
    },
    {
       "id":3,
-      "title":"เครื่องกรอง Micro filter",
+      "title":"เครื่องกรอง Micro filter 5 L/min",
       "description":"กรองน้ำชนิด Microfilter 5 L/min น้ำดื่มสะอาด",
       "img":"BRITA_flow.png"
    },
