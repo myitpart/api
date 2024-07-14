@@ -2,25 +2,25 @@
    {
       "id":0,
       "title":"เครื่องกรองน้ำ RO",
-      "description":"เครื่องกรองน้ำดื่มในบ้าน",
+      "description":"เครื่องกรองน้ำดื่มแบบ RO-02 ปริมาณ 15 L/min สำหรับบ้านพักอาศัย",
       "img":"water_RO.png"
    },
    {
       "id":1,
-      "title":"Smart car kit",
-      "description":"ชุดฝึก Smart car kit for Education",
+      "title":"Robot Smart car kit",
+      "description":"ชุดฝึก Robot Smart car kit for STEM Education",
       "img":"smartcars.jpg"
    },
    {
       "id":2,
       "title":"เครื่องกรองน้ำ Filter",
-      "description":"กรองน้ำแบบ 3ท่อ 5 L/min",
+      "description":"กรองน้ำแบบ 3ท่อ 5 L/min สำหรับบ้านพัก คอนโด",
       "img":"RCC7.jpg"
    },
    {
       "id":3,
       "title":"เครื่องกรอง Micro filter",
-      "description":"กรองน้ำชนิด Microfilter",
+      "description":"กรองน้ำชนิด Microfilter 5 L/min น้ำดื่มสะอาด",
       "img":"BRITA_flow.png"
    },
    {
@@ -37,32 +37,32 @@
    },
    {
       "id":6,
-      "title":"เครื่องกรองน้ำแบบ 2 ท่อ",
-      "description":"กรองน้ำดื่มแบบกรอง 2 ท่อ",
+      "title":"เครื่องกรองน้ำแบบ 2 ท่อ Water Filter",
+      "description":"กรองน้ำดื่มแบบกรอง 2 ท่อ 3 L/min น้ำดื่มสะอาด",
       "img":"waterfilter2states.jpg"
    },
    {
       "id":7,
       "title":"มอเตอร์เปิดประตู Auto 370W",
-      "description":"สำหรับ Sliding Gate กำลัง 370W",
+      "description":"สำหรับ Sliding Gate กำลัง 370W น้ำหนัก 250 kg",
       "img":"sliding_gate_370W.webp"
    },
    {
       "id":8,
       "title":"Board probe PCB",
-      "description":"Probe สำหรับตรวจ Board",
+      "description":"Probe สำหรับตรวจ Board และการตรวจซ่อม",
       "img":"boardprobe.jpg"
    },
       {
       "id":9,
       "title":"เครื่องกรองน้ำ RO",
-      "description":"เครื่องกรองน้ำดื่มในบ้าน",
+      "description":"เครื่องกรองน้ำดื่มในบ้าน คอนโด",
       "img":"water_RO.png"
    },
    {
       "id":10,
-      "title":"Smart car kit",
-      "description":"กรองน้ำแบบ 3ท่อ 5 L/min",
+      "title":"Education Smart car kit",
+      "description":"ชุดฝึก Robot Smart car kit for STEM Education",
       "img":"smartcars.jpg"
    }
 ]
