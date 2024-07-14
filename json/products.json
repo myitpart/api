@@ -49,13 +49,13 @@
    },
    {
       "id":8,
-      "title":"Board probe PCB",
+      "title":"Board probe PCB Checker",
       "description":"Probe สำหรับตรวจ Board และการตรวจซ่อม",
       "img":"boardprobe.jpg"
    },
       {
       "id":9,
-      "title":"เครื่องกรองน้ำ RO",
+      "title":"เครื่องกรองน้ำ RO ดื่มได้",
       "description":"เครื่องกรองน้ำดื่มในบ้าน คอนโด",
       "img":"water_RO.png"
    },
