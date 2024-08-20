@@ -1,0 +1,90 @@
+[
+   {
+      "id":0,
+      "title":"เครื่องกรองน้ำแบบ 5 steps (Filters) ดื่มได้",
+      "description":"เครื่องกรองน้ำดื่มแบบ FL-05 ปริมาณ 15 L/min สำหรับบ้านพักอาศัย",
+      "price": 7610, 
+      "star": 4.2,
+     "imageUrl":"water_RO.png"
+   },
+   {
+      "id":1,
+      "title":"Robot Smart car kit STEM",
+      "description":"ชุดฝึก Robot Smart car kit for STEM Education",
+      "price": 4720, 
+      "star": 4.5,
+      "imageUrl":"smartcars.jpg"
+   },
+   {
+      "id":2,
+      "title":"เครื่องกรองน้ำ Filter บ้านพัก คอนโด",
+      "description":"กรองน้ำแบบ 3ท่อ 5 L/min สำหรับบ้านพัก คอนโด",
+      "price": 3500, 
+      "star": 3.9,     
+      "imageUrl":"RCC7.jpg"
+   },
+   {
+      "id":3,
+      "title":"เครื่องกรองแบบถัง Filter 7.5 L/min",
+      "description":"กรองน้ำแบบถัง Filter 7.5 L/min มีภาชนะบรรจุสำหรับ น้ำดื่มสะอาด",
+      "price": 3790, 
+      "star": 3.8,
+      "imageUrl":"BRITA_flow.png"
+   },
+   {
+      "id":4,
+      "title":"ล้อคู่ 75 mm ประตูรีโมท Sliding",
+      "description":"ล้อคุ่ขนาด 75 มม. สำหรับประตุรีโมท Slidng Gate 250 kg",
+      "price": 520, 
+      "star": 4.6,
+      "imageUrl":"double_wheel.jpg"
+   },
+   {
+      "id":5,
+      "title":"แผ่นวงจร Printed Circuit Board (PCB)",
+      "description":"Industry-leading PCB ระดับอุตสาหกรรม prototype manufacturer,offers 24 hours Quick Turn PCB prototype, PCB assembly and Reliable small-batch PCB production. ",
+      "price": 4810, 
+      "star": 4.5,
+      "imageUrl":"pcb_closeup.jpg"
+   },
+   {
+      "id":6,
+      "title":"เครื่องกรองน้ำแบบ 2 ท่อ Water Filter",
+      "description":"กรองน้ำดื่มแบบกรอง 2 ท่อ 3 L/min น้ำดื่มสะอาด",
+      "price": 6410, 
+      "star": 3.5,
+      "imageUrl":"waterfilter2states.jpg"
+   },
+   {
+      "id":7,
+      "title":"มอเตอร์เปิดประตู Auto 370W",
+      "description":"สำหรับ Sliding Gate กำลัง 370W น้ำหนัก 250 kg",
+      "price": 9890, 
+      "star": 4.5,     
+      "imageUrl":"sliding_gate_370W.webp"
+   },
+   {
+      "id":8,
+      "title":"Board probe PCB Checker",
+      "description":"Probe สำหรับตรวจ Board และการตรวจซ่อม",
+      "price": 2120, 
+      "star": 3.9,     
+      "imageUrl":"boardprobe.jpg"
+   },
+      {
+      "id":9,
+      "title":"เครื่องกรองน้ำ RO ดื่มได้",
+      "description":"เครื่องกรองน้ำดื่มในบ้าน คอนโด",
+      "price": 4720, 
+      "star": 3.5,        
+      "imageUrl":"water_RO.png"
+   },
+   {
+      "id":10,
+      "title":"Education Smart car kit",
+      "description":"ชุดฝึก Robot Smart car kit for STEM Education",
+      "price": 6720, 
+      "star": 4.5     
+      "imageUrl":"smartcars.jpg"
+   }
+]
