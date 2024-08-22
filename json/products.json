@@ -9,11 +9,11 @@
    },
    {
       "id":1,
-      "title":"Robot Smart car kit STEM",
-      "description":"ชุดฝึก Robot Smart car kit for STEM Education",
+      "title":"Robot: Smart Automation STEM",
+      "description":"ชุดเรียนรู้ Smart Robot Automation kit for STEM Education",
       "price": 4720, 
       "star": 4.5,
-      "imageUrl":"smartcars.jpg"
+      "imageUrl":"robot_conveyor1.jpg"
    },
    {
       "id":2,
